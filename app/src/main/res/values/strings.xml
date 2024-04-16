@@ -1,6 +1,12 @@
 <resources>
-    <string name="app_name">Aula2aN</string>
+    <string name="app_name" translatable="false">Aula2aN</string>
     <string name="txt_gorjeta">Gorjeta</string>
     <string name="txt_valor">Valor</string>
     <string name="txt_total">Total</string>
+    <string name="txt_database">Database</string>
+    <string name="txt_re">RE</string>
+    <string name="txt_nome">Nome</string>
+    <string name="txt_dataadmissao">Data de Admissão</string>
+    <string name="txt_salario">Salário</string>
+    <string name="txt_cadastrar">Cadastrar</string>
 </resources>
