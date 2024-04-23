@@ -9,4 +9,7 @@
     <string name="txt_dataadmissao">Data de Admissão</string>
     <string name="txt_salario">Salário</string>
     <string name="txt_cadastrar">Cadastrar</string>
+    <string name="txt_buscar">Buscar</string>
+    <string name="txt_excluir">Excluir</string>
+    <string name="txt_alterar">Alterar</string>
 </resources>
