@@ -2,6 +2,7 @@ package br.fmu.aula2an;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
@@ -66,5 +67,10 @@ public class DatabaseActivity extends AppCompatActivity {
         editTextNome.setText(f.getNome());
         editTextDataAdmissao.setText(dateFormat.format(f.getDataAdmissao()));
         editTextSalario.setText(Double.toString(f.getSalario()));
+    }
+
+    public void lista(View view) {
+        Intent intent = new Intent( this, ListaActivity.class );
+        startActivity(intent);
     }
  }
