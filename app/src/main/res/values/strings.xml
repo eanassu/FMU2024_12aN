@@ -13,4 +13,5 @@
     <string name="txt_excluir">Excluir</string>
     <string name="txt_alterar">Alterar</string>
     <string name="txt_desenho">Desenho</string>
+    <string name="txt_sensor">Sensores</string>
 </resources>
